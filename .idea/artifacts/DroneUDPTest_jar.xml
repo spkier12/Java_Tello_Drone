@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DroneUDPTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DroneUDPTest_jar</output-path>
+    <root id="archive" name="DroneUDPTest.jar">
+      <element id="module-output" name="DroneUDPTest" />
+    </root>
+  </artifact>
+</component>
